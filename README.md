@@ -3,7 +3,7 @@
 ## Install
 
 ```
-cargo install
+cargo install --git https://github.com/frewsxcv/toggle-grayscale
 ```
 
 ## Usage
